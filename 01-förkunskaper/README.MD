@@ -8,7 +8,7 @@ To develop and run applications written in the C# language we need a runtime. Th
 
 ## Basics of C#
 
-C# is a "C style" language, just like PHP and JavaScript, so much of its core syntax should be immediately familiar. The language is based around an object oriented design, very similar to Java but with a lot of inspiration from functional languages added over the years, but we don't really need to care about any of that today.
+C# is a "C style" language, just like PHP and JavaScript. The language is based around an object oriented design, very similar to Java but with a lot of inspiration from functional languages added over the years.
 
 ### Hello World
 
