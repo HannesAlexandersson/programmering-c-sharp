@@ -171,19 +171,6 @@ Console.WriteLine($"Hello {name}");
 
 ## Assignments
 
-### Using solutions in Rider
-
-In Rider we will work in what's known as _Solutions_. A Solution is just a container for one or more _Projects_ that may or may not have dependencies on each other. Every week we will create a new solution that contain all assignments as projects.
-
-How to create a new solution:
-
-- Start Rider
-- Click on `New Solution`
-- Select the `Console Application` template
-- Set `Project Name` to "Assignment1" and `Solution Name` to "Week1"
-- Click `Create`
-
-<img src="solution-explorer.png">
 
 ### Assignment 1-1
 
