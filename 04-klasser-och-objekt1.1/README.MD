@@ -359,7 +359,7 @@ This is the masterpiece you're going for:
 
 ### Assignment 8 (Extra)
 
-Last time we wrote a <a href="https://github.com/yrgo/wu23/blob/master/C%23/03%20-%20Strings/Solutions/Assignment1/Program.cs">simple game</a> where you guess a random number between 1 and 100.
+Last time we wrote a <a href="https://github.com/HannesAlexandersson/programmering-c-sharp/blob/main/03-str%C3%A4ngar/solutions/program.cs">simple game</a> where you guess a random number between 1 and 100.
 
 Now update the game with a computer controlled opponent to play against.
 
