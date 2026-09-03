@@ -10,7 +10,7 @@ I think it could be handy for some of you to have a sort of CLI (command line in
 
 ``` Bash 
 # To start a new console app
-dotnet new console -n name-of-app --use-program-main
+dotnet new console -n MyConsoleApp --use-program-main
 
 # ASP.NET Core Web API
 dotnet new webapi -n MyWebApi
