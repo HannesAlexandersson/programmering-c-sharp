@@ -1,4 +1,4 @@
-### GIT & Github
+# GIT & Github
 here I will provide another CLI cheat sheet with some of the most usual and common git commands for the CLI. I'll also add eventually some new material to practice using git and github. 
 
 ## What is GIT?
