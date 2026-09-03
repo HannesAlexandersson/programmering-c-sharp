@@ -44,7 +44,7 @@ GitHub is mainly referred to as a "Git repository hosting service" - meaning tha
         <br />
 
 ### 2. Add personal access token (PAT)
-
+>You dont HAVE to this step, its only for your convinience
 -   Login to [github](https://github.com)
 
     -   Navigate to settings/Developer settings
