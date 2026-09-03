@@ -30,7 +30,7 @@ GitHub is mainly referred to as a "Git repository hosting service" - meaning tha
 
 -   [GitHub + GitHub Desktop Basics](https://www.youtube.com/watch?v=GqNAD4XoZ6k)
 
-> If you happen to get stuck the best thing is to ask a study buddy or your teachers for [help](https://www.youtube.com/watch?v=zkTf0LmDqKI)!
+> If you happen to get stuck the best thing is to ask a study buddy [help](https://www.youtube.com/watch?v=zkTf0LmDqKI)!
 
 ## Exercises
 
