@@ -6,7 +6,7 @@ Git is a version control system that allow us to keep track of every little chan
 A 'commit' is a version. Git will keep track of exactly how the code looked like at the time of this 'commit'. And If we need to we can backtrack and revert back to old commits. This is INCREDEBLY practical when working 
 toghether with other programmers and absolutly essential! 
 
-##What is Github?
+## What is Github?
 Github is simply explained an cloudbased interface for using git. It provides a cloud interface for us to see, and access our code. Other common cloud interfaces are Gitbucket, Gitlab etc. they all do the same thing. 
 
 
